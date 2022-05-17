@@ -1,13 +1,3 @@
-/*Kapelos Georgios
-  A.M.: 2022201800066
-  dit18066@uop.gr
-
-  Loukas Konstantinos
-  A.M: 2022201800112
-  dit18112@uop.gr
-*/
-
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
