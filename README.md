@@ -1,4 +1,4 @@
-# Number's Compositions
+# Number Compositions
 
 This program written in C finds any number's compositions by putting the produced resutls into a stack before printing all of them onto the screen.
 
