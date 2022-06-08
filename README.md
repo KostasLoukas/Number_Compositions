@@ -15,4 +15,4 @@ other combinations.
 
 The .c file contains the code and the .exe file is the executable. Run it from a command prompt so as to not let it close when it's done printing the result.
 
-Created By [Karapiperakis Emmanouil](https://github.com/MKarapiperakis) and [Loukas Konstantinos](https://github.com/KostasLoukas)
+Created by: [Karapiperakis Emmanouil](https://github.com/MKarapiperakis) and [Loukas Konstantinos](https://github.com/KostasLoukas)
